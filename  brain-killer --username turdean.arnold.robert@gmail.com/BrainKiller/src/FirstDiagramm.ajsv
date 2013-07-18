@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)-->
+<ajsv>
+    <diagram style="defaultDiagramStyle" version="1.7.6.v20111126-1531">
+        <switch switchID="howToShowDependenciesOptions" switchValue="hidden"/>
+        <class className="Buttons.StartingButton" project="Project Individual2" xLocation="177" yLocation="149"/>
+        <class className="Buttons.GameButton" project="Project Individual2" xLocation="1430" yLocation="100"/>
+        <class className="Calculations.FrameModifier" project="Project Individual2" xLocation="158" yLocation="706"/>
+        <class className="Calculations.ScreenSizeCalculations" project="Project Individual2" xLocation="100" yLocation="1043"/>
+        <class className="Main.MainClass" project="Project Individual2" xLocation="825" yLocation="988"/>
+        <class className="Main.MainFrame" project="Project Individual2" xLocation="177" yLocation="1334"/>
+        <class className="Operations.SquareGridOperations" project="Project Individual2" xLocation="601" yLocation="549"/>
+        <class className="Panels.NamePanel" project="Project Individual2" xLocation="1417" yLocation="624"/>
+        <class className="Panels.SquareGridPanel" project="Project Individual2" xLocation="1458" yLocation="1354"/>
+        <class className="Panels.SquarePanel" project="Project Individual2" xLocation="627" yLocation="1603"/>
+        <class className="Panels.Formation" project="Project Individual2" xLocation="582" yLocation="1101"/>
+        <class className="Panels.ScorePanel" project="Project Individual2" xLocation="1395" yLocation="1063"/>
+        <class className="SuperPanels.TheStartingPanel" project="Project Individual2" xLocation="779" yLocation="1289"/>
+        <class className="SuperPanels.ThePausePanel" project="Project Individual2" xLocation="1108" yLocation="1103"/>
+        <class className="SuperPanels.TheGamePanel" project="Project Individual2" xLocation="1464" yLocation="2016"/>
+    </diagram>
+</ajsv>
